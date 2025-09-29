@@ -225,11 +225,11 @@ This repository contains **lecture materials, code files, assignments, mini-proj
 | Assignment | Topic | Problems | Deadline | Solution File |
 |------------|-------|----------|----------|---------------|
 | 1 | Variables & Data Types | 5 | -- | [Solution]() |
-| 2 | Strings & Lists | 10 | -- | [Solution]() |
-| 3 | Loops & Conditions | 10 | -- | [Solution]() |
-| 4 | Functions | 8 | -- | [Solution]() |
-| 5 | Data Structures | 10 | -- | [Solution]() |
-| 6 | OOP & Final Project | 12 | -- | [Solution]() |  
+| 2 | Strings & Lists | 5 | -- | [Solution]() |
+| 3 | Loops & Conditions | 5 | -- | [Solution]() |
+| 4 | Functions | 5 | -- | [Solution]() |
+| 5 | Data Structures | 5 | -- | [Solution]() |
+| 6 | OOP & Final Project | 5 | -- | [Solution]() |  
 
 ---
 
