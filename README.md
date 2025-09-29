@@ -197,7 +197,7 @@ This repository contains **lecture materials, code files, assignments, mini-proj
 
 | Session | Date | Topic | Recording | Trainer | Code File | Other Material |
 |---------|------|--------|-----------|---------|-----------|----------------|
-| 1 | -- | Introduction & Setup | [Link]() | -- | [Code]() | [Notes]() |
+| 1 | -- | Introduction & Setup | [Link]() | -- | [Code](https://colab.research.google.com/drive/1c0tDQP7CZT6_kpHR1E-zcgoFGltlPER8#scrollTo=N02YUz4F12gM) | [Notes]() |
 | 2 | -- | Variables & Data Types | [Link]() | -- | [Code]() | [Notes]() |
 | 3 | -- | Operators | [Link]() | -- | [Code]() | [Notes]() |
 | 4 | -- | Strings | [Link]() | -- | [Code]() | [Notes]() |
