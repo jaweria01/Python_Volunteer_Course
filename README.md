@@ -198,8 +198,8 @@ This repository contains **lecture materials, code files, assignments, mini-proj
 | Session | Date | Topic | Recording | Trainer | Code File | Other Material |
 |---------|------|--------|-----------|---------|-----------|----------------|
 | 1 | 29/9/25 | Introduction & Setup | [Link]() | Jaweria Siddique | [intro.py](https://colab.research.google.com/drive/1c0tDQP7CZT6_kpHR1E-zcgoFGltlPER8#scrollTo=N02YUz4F12gM) | [Notes]() |
-| 2 | 30/9/25 | Variables & Data Types | [Link](https://web.facebook.com/share/v/16DhTr2AbS/) | Uzma Shahzad | [Code]() | [Notes]() |
-| 3 | 1/10/25 | Operators | [Link]() | Uzma Shahzad | [Code]() | [Notes]() |
+| 2 | 30/9/25 | Variables & Data Types | [Link](https://web.facebook.com/share/v/16DhTr2AbS/) | Uzma Shahzad | [var+data.py](https://colab.research.google.com/drive/1HytZc63MIIIi5_h8EDMEW4kuJKryjdVe#scrollTo=CVMoULd-qb_0) | [Notes]() |
+| 3 | 1/10/25 | Operators | [Link]() | Madeha Shah | [operator.py](https://colab.research.google.com/drive/1eV-fQFLWy08o4IHcE1ZBmJYVhAQsmfUs) | [Notes]() |
 | 4 | 2/10/25 | Strings | [Link]() | Madeha Shah | [Code]() | [Notes]() |
 | 5 | 3/10/25 | Lists | [Link]() | Mansoor Ali | [Code]() | [Notes]() |
 | 6 | -- | Conditional Statements | [Link]() | -- | [Code]() | [Notes]() |
