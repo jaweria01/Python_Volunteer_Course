@@ -193,6 +193,16 @@ This repository contains **lecture materials, code files, assignments, mini-proj
 
 ---
 
+# 🎥 Course Recordings & Video Tutorials
+
+All lecture recordings are available in our YouTube playlist, where students can replay and review sessions anytime.  
+
+🔗 [Watch the Full Python Course Playlist](https://www.youtube.com/playlist?list=PLe-jr3hh4N_lE7xnCd4Vi4fWm-tOrOPLL)  
+
+## 📚 What You’ll Find in the Playlist
+- Lecture recordings for all 20 classes (Week 1 → Week 4) 
+---
+
 ## ✅ Progress Checkpoints  
 
 | Session | Date | Topic | Recording | Trainer | Code File | Other Material |
