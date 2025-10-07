@@ -209,10 +209,10 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 2 | 30/9/25 | Variables & Data Types | [Reco-Link](https://web.facebook.com/share/v/16DhTr2AbS/) | Uzma Shahzad | [var+data.py](https://colab.research.google.com/drive/1HytZc63MIIIi5_h8EDMEW4kuJKryjdVe#scrollTo=CVMoULd-qb_0) | [Notes]() |
 | 3 | 1/10/25 | Operators | [Reco-Link](https://www.youtube.com/watch?v=6YT1BCYe7zo&list=PLe-jr3hh4N_lE7xnCd4Vi4fWm-tOrOPLL&index=2) | Madeha Shah | [operator.py](https://colab.research.google.com/drive/1eV-fQFLWy08o4IHcE1ZBmJYVhAQsmfUs) | [Notes]() |
 | 4 | 2/10/25 | Strings | [Reco-Link](https://www.youtube.com/live/xE3i_J3skuY?si=Sigfsaaqjy2kftDu) | Madeha Shah | [strins.py](https://colab.research.google.com/drive/1LG97dfe5wj4fk4b-ZTpRufLre7u9o7U1) | [Notes]() |
-| 5 | 3/10/25 | Lists | [Reco-Link](https://www.youtube.com/live/18Ya2DwB5zA?si=iae8w7e0XcL4NzpN) | Jaweria Siddique | [lists.py](https://colab.research.google.com/drive/1lN_aJnhywu22OUTqsWLsdUBNcDEGpbax) | [Notes]() |
-| 6 | -- | Conditional Statements | [Link]() | -- | [Code]() | [Notes]() |
-| 7 | -- | Loops (Part 1) | [Link]() | -- | [Code]() | [Notes]() |
-| 8 | -- | Loops (Part 2 – Patterns) | [Link]() | -- | [Code]() | [Notes]() |
+| 5 | 3/10/25 | Lists(Part1) | [Reco-Link](https://youtube.com/live/18Ya2DwB5zA?feature=share) | Jaweria Siddique | [lists1.py](https://colab.research.google.com/drive/1lN_aJnhywu22OUTqsWLsdUBNcDEGpbax) | [Notes]() |
+| 6 | 6/10/25 | List(Part2) | [Reco-Link](https://youtube.com/live/8z663ongWyE?feature=share) | Jaweria Siddique | [Lists2.py](https://colab.research.google.com/drive/1lN_aJnhywu22OUTqsWLsdUBNcDEGpbax) | [Notes]() |
+| 7 | 7/10/25 | Decision Control stat.  | [Link]() | -- | [condition.py]() | [Notes]() |
+| 8 | -- | Loops  | [Link]() | -- | [Code]() | [Notes]() |
 | 9 | -- | Functions (Basics) | [Link]() | -- | [Code]() | [Notes]() |
 | 10 | -- | Functions (Advanced) | [Link]() | -- | [Code]() | [Notes]() |
 | 11 | -- | Tuples & Sets | [Link]() | -- | [Code]() | [Notes]() |
