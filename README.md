@@ -233,7 +233,7 @@ All lecture recordings are available in our YouTube playlist, where students can
 | Assignment | Topic | Problems | Assignment File | Solution File |
 |------------|-------|----------|----------|---------------|
 | 1 | Variables & Data Types | 5 | -- | [Solution]() |
-| 2 | Strings & Lists | 5 | -- | [Solution]() |
+| 2 | Strings & Lists | 5 | [Lists+String-Assignment.py](https://colab.research.google.com/drive/1DVyK0MeXSn36gkAnKVh1kg_z8JnyOQw1?usp=sharing) | [Solution]() |
 | 3 | Loops & Conditions | 5 | [Conditions+Loops-Assignment.py](https://colab.research.google.com/drive/1WNgaUzzwcIOO0R3fKRIY8m01Kjuq0_By?usp=sharing) | [Solution]() |
 | 4 | Functions | 5 | -- | [Solution]() |
 | 5 | Data Structures | 5 | -- | [Solution]() |
