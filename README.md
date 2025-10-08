@@ -211,7 +211,7 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 4 | 2/10/25 | Strings | [Reco-Link](https://www.youtube.com/live/xE3i_J3skuY?si=Sigfsaaqjy2kftDu) | Madeha Shah | [strins.py](https://colab.research.google.com/drive/1LG97dfe5wj4fk4b-ZTpRufLre7u9o7U1) | [Notes]() |
 | 5 | 3/10/25 | Lists(Part1) | [Reco-Link](https://www.youtube.com/live/18Ya2DwB5zA?si=Ig2NKB0uHLLIOrxg) | Jaweria Siddique | [lists1.py](https://colab.research.google.com/drive/1lN_aJnhywu22OUTqsWLsdUBNcDEGpbax) | [Notes]() |
 | 6 | 6/10/25 | List(Part2) | [Reco-Link](https://www.youtube.com/live/8z663ongWyE?si=kVqhu-d5AfTVI8ej) | Jaweria Siddique | [Lists2.py](https://colab.research.google.com/drive/1lN_aJnhywu22OUTqsWLsdUBNcDEGpbax) | [Notes]() |
-| 7 | 7/10/25 | Decision Control stat.  | [Reco-Link](https://youtu.be/G1Tl-4JkJs8?si=xXuG_ho0h5COPelK) | -- | [condition.py]() | [Notes]() |
+| 7 | 7/10/25 | Decision Control stat.  | [Reco-Link](https://youtu.be/G1Tl-4JkJs8?si=xXuG_ho0h5COPelK) | Jaweria Siddique | [condition.py]() | [Notes]() |
 | 8 | 8/10/25 | Loops  | [Reco-Link]() | Uzma Shahzad | [Code]() | [Notes]() |
 | 9 | 9/10/25 | Functions (Basics) | [Link]() | Uzma Shahzad | [Code]() | [Notes]() |
 | 10 | 10/10/25 | Functions (Advanced) | [Link]() | -- | [Code]() | [Notes]() |
