@@ -214,10 +214,11 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 7 | 7/10/25 | Decision Control stat.  | [Reco-Link](https://youtu.be/G1Tl-4JkJs8?si=xXuG_ho0h5COPelK) | Jaweria Siddique | [condition.py](https://colab.research.google.com/drive/1OnY4jXQsa5rHau6ZG0v8vTtBTJpY8UoQ?usp=sharing) | [Notes]() |
 | 8 | 8/10/25 | Loops  | [Reco-Link]() | Uzma Shahzad | [loops.py](https://colab.research.google.com/drive/1OExlCcNrgzzHJ8SCIdja8HiCN1l8V8ZG#scrollTo=jSrg8x_V-XFz) | [Notes]() |
 | 9 | 9/10/25 | Functions (Basics) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Uzma Shahzad | [function1.py](https://colab.research.google.com/drive/1u_TbH-AWs5BnfTxPCZZQZqUCsAucEQUg) | [Notes]() |
-| 9 | 9/10/25 | Functions (Advance) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Madeha Shah | [function2.py]() | [Notes]() |
-| 10 | 10/10/25 | Lists(Revision) | [Reco-Link](https://www.youtube.com/watch?v=IB2PyhghKzk) | Bakhtawar | [Code]() | [Notes]() |
-| 11 | -- | Tuples & Sets | [Link]() | -- | [Code]() | [Notes]() |
-| 12 | -- | Dictionaries | [Link]() | -- | [Code]() | [Notes]() |
+| 10 | 10/10/25 | Functions (Advance) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Madeha Shah | [function2.py](https://colab.research.google.com/drive/1bVpF0cYW28jiA5uXzsLoZlrJd5wlNkLh#scrollTo=3WEPlx9KrwD4) | [Notes]() |
+| 10 | 13/10/25 | Lists(Revision) | [Reco-Link](https://www.youtube.com/watch?v=IB2PyhghKzk) | Bakhtawar | [Code]() | [Notes]() |
+| 11 | 14/10/25 | Tuples & Sets | [Link]() | Jaweria Siddique | [tuple.py]() | [Notes]() |
+| 12 | 15/10/25 | Sets | [Link]() | Jaweria Siddique | [sets.ppy]() | [Notes]() |
+| 13 | 16/10/25 | Dictionaries | [Link]() | -- | [Code]() | [Notes]() |
 | 13 | -- | Comprehensions | [Link]() | -- | [Code]() | [Notes]() |
 | 14 | -- | Practice Day (Mixed Problems) | [Link]() | -- | [Code]() | [Notes]() |
 | 15 | -- | Mini Project (Data Structures) | [Link]() | -- | [Code]() | [Notes]() |
