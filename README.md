@@ -214,19 +214,19 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 7 | 7/10/25 | Decision Control stat.  | [Reco-Link](https://youtu.be/G1Tl-4JkJs8?si=xXuG_ho0h5COPelK) | Jaweria Siddique | [condition.py](https://colab.research.google.com/drive/1OnY4jXQsa5rHau6ZG0v8vTtBTJpY8UoQ?usp=sharing) | [Notes]() |
 | 8 | 8/10/25 | Loops  | [Reco-Link]() | Uzma Shahzad | [loops.py](https://colab.research.google.com/drive/1OExlCcNrgzzHJ8SCIdja8HiCN1l8V8ZG#scrollTo=jSrg8x_V-XFz) | [Notes]() |
 | 9 | 9/10/25 | Functions (Basics) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Uzma Shahzad | [function1.py](https://colab.research.google.com/drive/1u_TbH-AWs5BnfTxPCZZQZqUCsAucEQUg) | [Notes]() |
-| 10 | 10/10/25 | Functions (Advance) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Madeha Shah | [function2.py](https://colab.research.google.com/drive/1bVpF0cYW28jiA5uXzsLoZlrJd5wlNkLh#scrollTo=3WEPlx9KrwD4) | [Notes]() |
-| 10 | 13/10/25 | Lists(Revision) | [Reco-Link](https://www.youtube.com/watch?v=IB2PyhghKzk) | Bakhtawar | [Code]() | [Notes]() |
-| 11 | 14/10/25 | Tuples & Sets | [Link]() | Jaweria Siddique | [tuple.py]() | [Notes]() |
-| 12 | 15/10/25 | Sets | [Link]() | Jaweria Siddique | [sets.ppy]() | [Notes]() |
-| 13 | 16/10/25 | Dictionaries | [Link]() | -- | [Code]() | [Notes]() |
-| 13 | -- | Comprehensions | [Link]() | -- | [Code]() | [Notes]() |
-| 14 | -- | Practice Day (Mixed Problems) | [Link]() | -- | [Code]() | [Notes]() |
-| 15 | -- | Mini Project (Data Structures) | [Link]() | -- | [Code]() | [Notes]() |
-| 16 | -- | OOP Basics | [Link]() | -- | [Code]() | [Notes]() |
-| 17 | -- | OOP Advanced | [Link]() | -- | [Code]() | [Notes]() |
-| 18 | -- | OOP Relationships | [Link]() | -- | [Code]() | [Notes]() |
-| 19 | -- | Modules & File Handling | [Link]() | -- | [Code]() | [Notes]() |
-| 20 | -- | Error Handling & Final Project | [Link]() | -- | [Code]() | [Notes]() |
+| 10 | 13/10/25 | Lists(Revision) | [Reco-Link](https://youtu.be/2xAh1E50OzQ) | Bakhtawar | [Code]() | [Notes]() |
+| 11 | 10/10/25 | Functions (Advance) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Madeha Shah | [function2.py](https://colab.research.google.com/drive/1bVpF0cYW28jiA5uXzsLoZlrJd5wlNkLh#scrollTo=3WEPlx9KrwD4) | [Notes]() |
+| 12 | 14/10/25 | Tuples | [Reco-Link](https://youtu.be/Fn8Lm4wpurg) | Jaweria Siddique | [tuple.py](https://colab.research.google.com/drive/1z2D2Q3QgiKrWJ7LBZyOkXX7nuA3fvJLD#scrollTo=V5kHpHXJxyk1) | [Notes]() |
+| 13 | 15/10/25 | Sets | [Reco-Link](https://youtube.com/live/ClTpiwa_w6s?feature=share) | Jaweria Siddique | [sets.py](https://colab.research.google.com/drive/18jAolr4c9lOCVyxcR_P4E9wYIn6WYssJ) | [Notes]() |
+| 14 | 16/10/25 | Dictionaries | [Reco-Link]() | Uzma Shahzad | [Code]() | [Notes]() |
+| 15 | -- | Comprehensions | [Link]() | Uzma Shahzad | [Code]() | [Notes]() |
+| 16 | -- | Practice Day (Mixed Problems) | [Link]() | Uzma Shahzad | [Code]() | [Notes]() |
+| 17 | -- | Mini Project (Data Structures) | [Link]() | Uzma Shahzad | [Code]() | [Notes]() |
+| 18 | -- | OOP Basics | [Link]() | -- | [Code]() | [Notes]() |
+| 19 | -- | OOP Advanced | [Link]() | -- | [Code]() | [Notes]() |
+| 20 | -- | OOP Relationships | [Link]() | -- | [Code]() | [Notes]() |
+| 21 | -- | Modules & File Handling | [Link]() | -- | [Code]() | [Notes]() |
+| 22 | -- | Error Handling & Final Project | [Link]() | -- | [Code]() | [Notes]() |
 
 ---
 
