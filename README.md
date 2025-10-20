@@ -218,15 +218,13 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 11 | 10/10/25 | Functions (Advance) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Madeha Shah | [function2.py](https://colab.research.google.com/drive/1bVpF0cYW28jiA5uXzsLoZlrJd5wlNkLh#scrollTo=3WEPlx9KrwD4) | [Notes]() |
 | 12 | 14/10/25 | Tuples | [Reco-Link](https://youtu.be/Fn8Lm4wpurg) | Jaweria Siddique | [tuple.py](https://colab.research.google.com/drive/1z2D2Q3QgiKrWJ7LBZyOkXX7nuA3fvJLD#scrollTo=V5kHpHXJxyk1) | [Notes]() |
 | 13 | 15/10/25 | Sets | [Reco-Link](https://youtube.com/live/ClTpiwa_w6s?feature=share) | Jaweria Siddique | [sets.py](https://colab.research.google.com/drive/18jAolr4c9lOCVyxcR_P4E9wYIn6WYssJ) | [Notes]() |
-| 14 | 16/10/25 | Dictionaries | [Reco-Link]() | Uzma Shahzad | [Code]() | [Notes]() |
-| 15 | -- | Comprehensions | [Link]() | Uzma Shahzad | [Code]() | [Notes]() |
-| 16 | -- | Practice Day (Mixed Problems) | [Link]() | Uzma Shahzad | [Code]() | [Notes]() |
-| 17 | -- | Mini Project (Data Structures) | [Link]() | Uzma Shahzad | [Code]() | [Notes]() |
-| 18 | -- | OOP Basics | [Link]() | -- | [Code]() | [Notes]() |
-| 19 | -- | OOP Advanced | [Link]() | -- | [Code]() | [Notes]() |
-| 20 | -- | OOP Relationships | [Link]() | -- | [Code]() | [Notes]() |
-| 21 | -- | Modules & File Handling | [Link]() | -- | [Code]() | [Notes]() |
-| 22 | -- | Error Handling & Final Project | [Link]() | -- | [Code]() | [Notes]() |
+| 14 | 16/10/25 | Dictionaries | [Reco-Link]() | Jaweria Siddique | [Code]() | [Notes]() |
+| 15 | 17/10/25 | Comprehensions & Mini Project | [Reco-Link]() | Uzma Shahzad | [Code]() | [Notes]() |
+| 16 | 20/10/25 | OOP Basics | [Reco-Link]() | -- | [Code]() | [Notes]() |
+| 17 | 21/10/25 | OOP Advanced | [Reco-Link]() | -- | [Code]() | [Notes]() |
+| 18 | 22/10/25 | OOP Relationships | [Reco-Link]() | -- | [Code]() | [Notes]() |
+| 19 | 23/10/25 | Modules & File Handling | [Reco-Link]() | -- | [Code]() | [Notes]() |
+| 20 | 24/10/25 | Error Handling & Final Project | [Reco-Link]() | -- | [Code]() | [Notes]() |
 
 ---
 
