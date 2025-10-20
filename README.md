@@ -218,13 +218,13 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 11 | 10/10/25 | Functions (Advance) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Madeha Shah | [function2.py](https://colab.research.google.com/drive/1bVpF0cYW28jiA5uXzsLoZlrJd5wlNkLh#scrollTo=3WEPlx9KrwD4) | [Notes]() |
 | 12 | 14/10/25 | Tuples | [Reco-Link](https://youtu.be/Fn8Lm4wpurg) | Jaweria Siddique | [tuple.py](https://colab.research.google.com/drive/1z2D2Q3QgiKrWJ7LBZyOkXX7nuA3fvJLD#scrollTo=V5kHpHXJxyk1) | [Notes]() |
 | 13 | 15/10/25 | Sets | [Reco-Link](https://youtube.com/live/ClTpiwa_w6s?feature=share) | Jaweria Siddique | [sets.py](https://colab.research.google.com/drive/18jAolr4c9lOCVyxcR_P4E9wYIn6WYssJ) | [Notes]() |
-| 14 | 16/10/25 | Dictionaries | [Reco-Link]() | Jaweria Siddique | [Code]() | [Notes]() |
-| 15 | 17/10/25 | Comprehensions & Mini Project | [Reco-Link]() | Uzma Shahzad | [Code]() | [Notes]() |
-| 16 | 20/10/25 | OOP Basics | [Reco-Link]() | -- | [Code]() | [Notes]() |
-| 17 | 21/10/25 | OOP Advanced | [Reco-Link]() | -- | [Code]() | [Notes]() |
-| 18 | 22/10/25 | OOP Relationships | [Reco-Link]() | -- | [Code]() | [Notes]() |
-| 19 | 23/10/25 | Modules & File Handling | [Reco-Link]() | -- | [Code]() | [Notes]() |
-| 20 | 24/10/25 | Error Handling & Final Project | [Reco-Link]() | -- | [Code]() | [Notes]() |
+| 14 | 16/10/25 | Dictionaries | [Reco-Link]() | Jaweria Siddique | [Dictionary.py](https://colab.research.google.com/drive/1kYlGh0qSx3pyx8jRaWZcrYtxkiyRshAn) | [Notes]() |
+| 15 | 17/10/25 | Comprehensions & Mini Project | [Reco-Link]() | Uzma Shahzad | [comprehension$Proj.py](https://colab.research.google.com/drive/1eIHML4NTkvkoHP02zM1DhWtHyMr6hhoR#scrollTo=kmM4oPUPA4y4) | [Notes]() |
+| 16 | 20/10/25 | OOP Basics | [Reco-Link]() | Jaweria Siddique | [OPP-Basic.py](https://colab.research.google.com/drive/1dXddgJs53744bnNd9UP5TxBYDakx9TXC#scrollTo=fgKJmABCSC3F) | [Notes]() |
+| 17 | 21/10/25 | OOP Advanced | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
+| 18 | 22/10/25 | OOP Relationships | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
+| 19 | 23/10/25 | Modules & File Handling | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
+| 20 | 24/10/25 | Error Handling & Final Project | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
 
 ---
 
@@ -235,9 +235,8 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 1 | Variables & Data Types | 5 | [Var+DataTypes.py](https://colab.research.google.com/drive/1GcgOnMsnTl1e9m2bVL8QVkvfjbaemJv5?usp=sharing) | [Solution]() |
 | 2 | Strings & Lists | 5 | [Lists+String-Assignment.py](https://colab.research.google.com/drive/1DVyK0MeXSn36gkAnKVh1kg_z8JnyOQw1?usp=sharing) | [Solution]() |
 | 3 | Loops & Conditions | 5 | [Conditions+Loops-Assignment.py](https://colab.research.google.com/drive/1WNgaUzzwcIOO0R3fKRIY8m01Kjuq0_By?usp=sharing) | [Solution]() |
-| 4 | Functions | 5 | -- | [Solution]() |
-| 5 | Data Structures | 5 | -- | [Solution]() |
-| 6 | OOP & Final Project | 5 | -- | [Solution]() |  
+| 4 | Functions | 5 | [Functions-Assignment]() | [Solution]() |
+| 5 | OOP & Final Project | 5 | [OOP-Assignment]() | [Solution]() |  
 
 ---
 
