@@ -218,9 +218,9 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 11 | 10/10/25 | Functions (Advance) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Madeha Shah | [function2.py](https://colab.research.google.com/drive/1bVpF0cYW28jiA5uXzsLoZlrJd5wlNkLh#scrollTo=3WEPlx9KrwD4) | [Notes]() |
 | 12 | 14/10/25 | Tuples | [Reco-Link](https://youtu.be/Fn8Lm4wpurg) | Jaweria Siddique | [tuple.py](https://colab.research.google.com/drive/1z2D2Q3QgiKrWJ7LBZyOkXX7nuA3fvJLD#scrollTo=V5kHpHXJxyk1) | [Notes]() |
 | 13 | 15/10/25 | Sets | [Reco-Link](https://youtube.com/live/ClTpiwa_w6s?feature=share) | Jaweria Siddique | [sets.py](https://colab.research.google.com/drive/18jAolr4c9lOCVyxcR_P4E9wYIn6WYssJ) | [Notes]() |
-| 14 | 16/10/25 | Dictionaries | [Reco-Link]() | Jaweria Siddique | [Dictionary.py](https://colab.research.google.com/drive/1kYlGh0qSx3pyx8jRaWZcrYtxkiyRshAn) | [Notes]() |
-| 15 | 17/10/25 | Comprehensions & Mini Project | [Reco-Link]() | Uzma Shahzad | [comprehension$Proj.py](https://colab.research.google.com/drive/1eIHML4NTkvkoHP02zM1DhWtHyMr6hhoR#scrollTo=kmM4oPUPA4y4) | [Notes]() |
-| 16 | 20/10/25 | OOP Basics | [Reco-Link]() | Jaweria Siddique | [OPP-Basic.py](https://colab.research.google.com/drive/1dXddgJs53744bnNd9UP5TxBYDakx9TXC#scrollTo=fgKJmABCSC3F) | [Notes]() |
+| 14 | 16/10/25 | Dictionaries | [Reco-Link](https://youtube.com/live/8iPGlLdaNdU?feature=share) | Jaweria Siddique | [Dictionary.py](https://colab.research.google.com/drive/1kYlGh0qSx3pyx8jRaWZcrYtxkiyRshAn) | [Notes]() |
+| 15 | 17/10/25 | Comprehensions & Mini Project | [Reco-Link](https://youtube.com/live/mQFSVzX0dw8?feature=share) | Uzma Shahzad | [comprehension$Proj.py](https://colab.research.google.com/drive/1eIHML4NTkvkoHP02zM1DhWtHyMr6hhoR#scrollTo=kmM4oPUPA4y4) | [Notes]() |
+| 16 | 20/10/25 | OOP Basics | [Reco-Link](https://youtube.com/live/o9YLXZkfObQ?feature=share) | Jaweria Siddique | [OPP-Basic.py](https://colab.research.google.com/drive/1dXddgJs53744bnNd9UP5TxBYDakx9TXC#scrollTo=fgKJmABCSC3F) | [Notes]() |
 | 17 | 21/10/25 | OOP Advanced | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
 | 18 | 22/10/25 | OOP Relationships | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
 | 19 | 23/10/25 | Modules & File Handling | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
