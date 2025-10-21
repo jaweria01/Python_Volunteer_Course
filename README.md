@@ -214,14 +214,14 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 7 | 7/10/25 | Decision Control stat.  | [Reco-Link](https://youtu.be/G1Tl-4JkJs8?si=xXuG_ho0h5COPelK) | Jaweria Siddique | [condition.py](https://colab.research.google.com/drive/1OnY4jXQsa5rHau6ZG0v8vTtBTJpY8UoQ?usp=sharing) | [Notes]() |
 | 8 | 8/10/25 | Loops  | [Reco-Link]() | Uzma Shahzad | [loops.py](https://colab.research.google.com/drive/1OExlCcNrgzzHJ8SCIdja8HiCN1l8V8ZG#scrollTo=jSrg8x_V-XFz) | [Notes]() |
 | 9 | 9/10/25 | Functions (Basics) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Uzma Shahzad | [function1.py](https://colab.research.google.com/drive/1u_TbH-AWs5BnfTxPCZZQZqUCsAucEQUg) | [Notes]() |
-| 10 | 13/10/25 | Lists(Revision) | [Reco-Link](https://youtu.be/2xAh1E50OzQ) | Bakhtawar | [Code]() | [Notes]() |
+| 10 | 13/10/25 | Lists(Revision) | [Reco-Link](https://youtu.be/2xAh1E50OzQ) | Bakhtawar | [List-Revision.py](https://colab.research.google.com/drive/1QuuCvBnqi-aM-7UEeDa6MDJ75a6-lV4A) | [Notes]() |
 | 11 | 10/10/25 | Functions (Advance) | [Reco-Link](https://www.youtube.com/watch?v=N-HyuGkb6tg) | Madeha Shah | [function2.py](https://colab.research.google.com/drive/1bVpF0cYW28jiA5uXzsLoZlrJd5wlNkLh#scrollTo=3WEPlx9KrwD4) | [Notes]() |
 | 12 | 14/10/25 | Tuples | [Reco-Link](https://youtu.be/Fn8Lm4wpurg) | Jaweria Siddique | [tuple.py](https://colab.research.google.com/drive/1z2D2Q3QgiKrWJ7LBZyOkXX7nuA3fvJLD#scrollTo=V5kHpHXJxyk1) | [Notes]() |
 | 13 | 15/10/25 | Sets | [Reco-Link](https://youtube.com/live/ClTpiwa_w6s?feature=share) | Jaweria Siddique | [sets.py](https://colab.research.google.com/drive/18jAolr4c9lOCVyxcR_P4E9wYIn6WYssJ) | [Notes]() |
 | 14 | 16/10/25 | Dictionaries | [Reco-Link](https://youtube.com/live/8iPGlLdaNdU?feature=share) | Jaweria Siddique | [Dictionary.py](https://colab.research.google.com/drive/1kYlGh0qSx3pyx8jRaWZcrYtxkiyRshAn) | [Notes]() |
 | 15 | 17/10/25 | Comprehensions & Mini Project | [Reco-Link](https://youtube.com/live/mQFSVzX0dw8?feature=share) | Uzma Shahzad | [comprehension$Proj.py](https://colab.research.google.com/drive/1eIHML4NTkvkoHP02zM1DhWtHyMr6hhoR#scrollTo=kmM4oPUPA4y4) | [Notes]() |
 | 16 | 20/10/25 | OOP Basics | [Reco-Link](https://youtube.com/live/o9YLXZkfObQ?feature=share) | Jaweria Siddique | [OPP-Basic.py](https://colab.research.google.com/drive/1dXddgJs53744bnNd9UP5TxBYDakx9TXC#scrollTo=fgKJmABCSC3F) | [Notes]() |
-| 17 | 21/10/25 | OOP Advanced | [Reco-Link](https://www.youtube.com/live/yWARhxxl7o4?si=-FfOhfFbEmMYGKEk) | Madeha Shah | [Code](https://colab.research.google.com/drive/1apBhctol9JZxx5LsNN0U3Z9I2iCSRKyZ) | [Notes]() |
+| 17 | 21/10/25 | OOP Advanced | [Reco-Link](https://www.youtube.com/live/yWARhxxl7o4?si=-FfOhfFbEmMYGKEk) | Madeha Shah | [Advance-OOP.py](https://colab.research.google.com/drive/1apBhctol9JZxx5LsNN0U3Z9I2iCSRKyZ) | [Notes]() |
 | 18 | 22/10/25 | OOP Relationships | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
 | 19 | 23/10/25 | Modules & File Handling | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
 | 20 | 24/10/25 | Error Handling & Final Project | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
