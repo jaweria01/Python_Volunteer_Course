@@ -221,7 +221,7 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 14 | 16/10/25 | Dictionaries | [Reco-Link](https://youtube.com/live/8iPGlLdaNdU?feature=share) | Jaweria Siddique | [Dictionary.py](https://colab.research.google.com/drive/1kYlGh0qSx3pyx8jRaWZcrYtxkiyRshAn) | [Notes]() |
 | 15 | 17/10/25 | Comprehensions & Mini Project | [Reco-Link](https://youtube.com/live/mQFSVzX0dw8?feature=share) | Uzma Shahzad | [comprehension$Proj.py](https://colab.research.google.com/drive/1eIHML4NTkvkoHP02zM1DhWtHyMr6hhoR#scrollTo=kmM4oPUPA4y4) | [Notes]() |
 | 16 | 20/10/25 | OOP Basics | [Reco-Link](https://youtube.com/live/o9YLXZkfObQ?feature=share) | Jaweria Siddique | [OPP-Basic.py](https://colab.research.google.com/drive/1dXddgJs53744bnNd9UP5TxBYDakx9TXC#scrollTo=fgKJmABCSC3F) | [Notes]() |
-| 17 | 21/10/25 | OOP Advanced | [Reco-Link](https://www.youtube.com/live/yWARhxxl7o4?si=-FfOhfFbEmMYGKEk) | Madeha Shah | [Code]() | [Notes]() |
+| 17 | 21/10/25 | OOP Advanced | [Reco-Link](https://www.youtube.com/live/yWARhxxl7o4?si=-FfOhfFbEmMYGKEk) | Madeha Shah | [Code](https://colab.research.google.com/drive/1apBhctol9JZxx5LsNN0U3Z9I2iCSRKyZ) | [Notes]() |
 | 18 | 22/10/25 | OOP Relationships | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
 | 19 | 23/10/25 | Modules & File Handling | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
 | 20 | 24/10/25 | Error Handling & Final Project | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
