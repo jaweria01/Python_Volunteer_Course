@@ -203,8 +203,8 @@ All lecture recordings are available in our YouTube playlist, where students can
 
 ## ✅ Progress Checkpoints  
 
-| Session | Date | Topic | Recording | Trainer | Code File | Material |
-|--------|------|--------|-----------|-------------|--------|--------|
+| Session | Date | Topic | Recording | Trainer | CodeFile | Material |
+|----|------|--------|---------|-------------|------|--------|
 | 1 | 29/9/25 | Introduction & Setup | [Reco-Link]() | Jaweria Siddique | [intro.py](https://colab.research.google.com/drive/1c0tDQP7CZT6_kpHR1E-zcgoFGltlPER8#scrollTo=N02YUz4F12gM) | [Notes]() |
 | 2 | 30/9/25 | Variables & Data Types | [Reco-Link](https://web.facebook.com/share/v/16DhTr2AbS/) | Uzma Shahzad | [var+data.py](https://colab.research.google.com/drive/1HytZc63MIIIi5_h8EDMEW4kuJKryjdVe#scrollTo=CVMoULd-qb_0) | [Notes]() |
 | 3 | 1/10/25 | Operators | [Reco-Link](https://www.youtube.com/watch?v=6YT1BCYe7zo&list=PLe-jr3hh4N_lE7xnCd4Vi4fWm-tOrOPLL&index=2) | Madeha Shah | [operator.py](https://colab.research.google.com/drive/1eV-fQFLWy08o4IHcE1ZBmJYVhAQsmfUs) | [Notes]() |
