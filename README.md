@@ -224,7 +224,7 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 17 | 21/10/25 | OOP Advanced | [Reco-Link](https://www.youtube.com/live/yWARhxxl7o4?si=-FfOhfFbEmMYGKEk) | Madeha Shah | [Advance-OOP.py](https://colab.research.google.com/drive/1apBhctol9JZxx5LsNN0U3Z9I2iCSRKyZ) | [Notes]() |
 | 18 | 22/10/25 | OOP Relationships | [Reco-Link](https://youtube.com/live/HMPmnV19HeU?feature=share) | Madeha Shah | [OOP-Relationships.py](https://colab.research.google.com/drive/11tsCOhxQPvk__Dd0i43CWBmJgb_hBFDw?usp=sharing) | [Notes]() |
 | 19 | 23/10/25 | Modules & File Handling | [Reco-Link](https://youtube.com/live/Qx4SmZETwBs?feature=share) | Madeha Shah | [File&Module-Handling.py](https://colab.research.google.com/drive/1BqgRFVD6KM0jzb9mwK4Gff15V34pz3f4?usp=sharing) | [Notes]() |
-| 20 | 24/10/25 | Error Handling & Final Project | [Reco-Link]() | Madeha Shah | [Code]() | [Notes]() |
+| 20 | 24/10/25 | Error Handling & Final Project | [Reco-Link](https://www.youtube.com/live/KyGwibvf1_w?si=6ageFRj8HTFAORhn) | Madeha Shah | [ErrorHandling&Project](https://colab.research.google.com/drive/16SBQ1ZEOcebGdZafKtkYUe88WeGTk5e6?usp=sharing) | [Notes]() |
 
 ---
 
@@ -249,10 +249,9 @@ We aim to empower students, beginners, and enthusiasts to learn programming with
 ## 👩‍🏫 Meet the Trainers  
 Our sessions are conducted by a passionate team of volunteers:  
 
-- **Jaweria Siddique**
-- **Uzma Shahzad** 
-- **Mirza Abdullah Tariq**
-- **Madeha Shah**  
+- [**Jaweria Siddique**](https://www.linkedin.com/in/jaweria-siddique1/)
+- [**Uzma Shahzad**](https://www.linkedin.com/in/uzma-shahzad/) 
+- [**Madeha Shah**](https://www.linkedin.com/in/madeha-s-4292852ab/)  
 
 ---
 
